@@ -158,8 +158,9 @@ sensor:modalias:acpi:INVN6500*:dmi:*svnASUSTeK*:*pnT100TAS:*
 sensor:modalias:acpi:INVN6500*:dmi:*svnASUSTeK*:pnT200TA:*
  ACCEL_MOUNT_MATRIX=1, 0, 0; 0, -1, 0; 0, 0, 1
 
-# Asus Transformer Mini T103HAF
+# Asus Transformer T101HA & Transformer Mini T103HAF
 sensor:modalias:platform:HID-SENSOR-200073*:dmi:*svn*ASUSTeK*:pnT103HAF:*
+sensor:modalias:platform:HID-SENSOR-200073*:dmi:*svn*ASUSTeK*:pnT101HA:*
  ACCEL_MOUNT_MATRIX=0, -1, 0; 1, 0, 0; 0, 0, -1
 
 sensor:modalias:acpi:INVN6500*:dmi:*svnASUSTeK*:*pnTP201SA:*
